@@ -1,0 +1,19 @@
+{"level":"info","time":"2025-07-21T18:55:39Z","message":"Starting server on :8080"}
+{"level":"info","time":"2025-07-21T18:56:02Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":2.9033,"time":"2025-07-21T18:56:02Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-21T18:59:58Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":10.9353,"time":"2025-07-21T18:59:58Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-21T19:05:27Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":4.4214,"time":"2025-07-21T19:05:27Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-21T19:05:34Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":2.8458,"time":"2025-07-21T19:05:34Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-21T19:16:40Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":3.3787,"time":"2025-07-21T19:16:40Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-21T19:16:42Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":2.7446,"time":"2025-07-21T19:16:42Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-21T19:16:42Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":3.6426,"time":"2025-07-21T19:16:42Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-21T19:17:59Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":4.718,"time":"2025-07-21T19:17:59Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-21T19:21:13Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":3.2658,"time":"2025-07-21T19:21:13Z","message":"Incoming request"}
