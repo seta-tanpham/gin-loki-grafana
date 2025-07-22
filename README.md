@@ -40,8 +40,8 @@ This project is a minimal REST API built using the [Gin](https://github.com/gin-
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-org/gin-zerolog-loki-demo.git
-cd gin-zerolog-loki-demo
+git clone https://github.com/seta-tanpham/gin-loki-grafana.git
+cd gin-loki-grafana
 ```
 
 ### 2. Start all services
@@ -75,6 +75,8 @@ docker-compose up --build
 ## 📊 Grafana Dashboard
 
 ### Dashboard Metrics via LogQL
+
+Loki URL: http://host.docker.internal:3100
 
 - ✅ Success Requests:  
   ```logql
