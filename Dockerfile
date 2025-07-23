@@ -8,7 +8,6 @@ RUN go mod download
 
 COPY . .
 
-RUN mkdir -p /app/logs   # ✅ Thêm dòng này
 RUN go build -o server .
 
 EXPOSE 8080

@@ -17,3 +17,818 @@
 {"level":"info","method":"GET","path":"/ping","status":200,"latency":4.718,"time":"2025-07-21T19:17:59Z","message":"Incoming request"}
 {"level":"info","time":"2025-07-21T19:21:13Z","message":"Ping endpoint called"}
 {"level":"info","method":"GET","path":"/ping","status":200,"latency":3.2658,"time":"2025-07-21T19:21:13Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T02:31:37Z","message":"Starting server on :8080"}
+{"level":"info","time":"2025-07-23T02:32:41Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.18219,"time":"2025-07-23T02:32:41Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/favicon.ico","status":404,"latency":0.000305,"time":"2025-07-23T02:32:42Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T02:33:28Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.62203,"time":"2025-07-23T02:33:28Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T02:33:29Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.103816,"time":"2025-07-23T02:33:29Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T02:33:30Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.132577,"time":"2025-07-23T02:33:30Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:14:41Z","message":"Starting server on :8080"}
+{"level":"info","time":"2025-07-23T03:21:55Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.237422,"time":"2025-07-23T03:21:55Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:21:56Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.125758,"time":"2025-07-23T03:21:56Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:21:56Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.067883,"time":"2025-07-23T03:21:56Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:21:57Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.091582,"time":"2025-07-23T03:21:57Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:21:58Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.104409,"time":"2025-07-23T03:21:58Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:21:58Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.087647,"time":"2025-07-23T03:21:58Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:21:58Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.091447,"time":"2025-07-23T03:21:58Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:21:58Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.09838,"time":"2025-07-23T03:21:58Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:27:10Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.217697,"time":"2025-07-23T03:27:10Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:52Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.111593,"time":"2025-07-23T03:40:52Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:52Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.09639,"time":"2025-07-23T03:40:52Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:55Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.109802,"time":"2025-07-23T03:40:55Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:55Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.22627,"time":"2025-07-23T03:40:55Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:56Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.1003,"time":"2025-07-23T03:40:56Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:56Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.066819,"time":"2025-07-23T03:40:56Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:56Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.089523,"time":"2025-07-23T03:40:56Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:56Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.089328,"time":"2025-07-23T03:40:56Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:56Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.061683,"time":"2025-07-23T03:40:56Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:57Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.079978,"time":"2025-07-23T03:40:57Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:57Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.077122,"time":"2025-07-23T03:40:57Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:57Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.081065,"time":"2025-07-23T03:40:57Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:57Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.108719,"time":"2025-07-23T03:40:57Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:57Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.100182,"time":"2025-07-23T03:40:57Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:57Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.089547,"time":"2025-07-23T03:40:57Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:58Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.066705,"time":"2025-07-23T03:40:58Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:58Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.108989,"time":"2025-07-23T03:40:58Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:58Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.109262,"time":"2025-07-23T03:40:58Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:40:58Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.094925,"time":"2025-07-23T03:40:58Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:04Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.100288,"time":"2025-07-23T03:41:04Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:05Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.096375,"time":"2025-07-23T03:41:05Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:05Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.134829,"time":"2025-07-23T03:41:05Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:05Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.066182,"time":"2025-07-23T03:41:05Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:09Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.109088,"time":"2025-07-23T03:41:09Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:09Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.139278,"time":"2025-07-23T03:41:09Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:10Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.084818,"time":"2025-07-23T03:41:10Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:10Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.103763,"time":"2025-07-23T03:41:10Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:10Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.061747,"time":"2025-07-23T03:41:10Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:10Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.085024,"time":"2025-07-23T03:41:10Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:10Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.097572,"time":"2025-07-23T03:41:10Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:10Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.081157,"time":"2025-07-23T03:41:10Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:11Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.089711,"time":"2025-07-23T03:41:11Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:11Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.099633,"time":"2025-07-23T03:41:11Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:11Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.22592,"time":"2025-07-23T03:41:11Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:14Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.084428,"time":"2025-07-23T03:41:14Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:15Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.083228,"time":"2025-07-23T03:41:15Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:18Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.083331,"time":"2025-07-23T03:41:18Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:18Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.081264,"time":"2025-07-23T03:41:18Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:18Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.094005,"time":"2025-07-23T03:41:18Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:19Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.247551,"time":"2025-07-23T03:41:19Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:19Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.102945,"time":"2025-07-23T03:41:19Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.105655,"time":"2025-07-23T03:41:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.095379,"time":"2025-07-23T03:41:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.088705,"time":"2025-07-23T03:41:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.090974,"time":"2025-07-23T03:41:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.100386,"time":"2025-07-23T03:41:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:41:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.089217,"time":"2025-07-23T03:41:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:44:10Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.084955,"time":"2025-07-23T03:44:10Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:44:11Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.103959,"time":"2025-07-23T03:44:11Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:44:11Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.082319,"time":"2025-07-23T03:44:11Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:44:11Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.131502,"time":"2025-07-23T03:44:11Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:44:11Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.102525,"time":"2025-07-23T03:44:11Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:44:12Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.089594,"time":"2025-07-23T03:44:12Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:44:12Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.104087,"time":"2025-07-23T03:44:12Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:44:12Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.081058,"time":"2025-07-23T03:44:12Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:02Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.37551,"time":"2025-07-23T03:45:02Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:03Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.074936,"time":"2025-07-23T03:45:03Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:04Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.107808,"time":"2025-07-23T03:45:04Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:04Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.072003,"time":"2025-07-23T03:45:04Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:04Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.112433,"time":"2025-07-23T03:45:04Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.100984,"time":"2025-07-23T03:45:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.104503,"time":"2025-07-23T03:45:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.105786,"time":"2025-07-23T03:45:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.10958,"time":"2025-07-23T03:45:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.140797,"time":"2025-07-23T03:45:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.114409,"time":"2025-07-23T03:45:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.089306,"time":"2025-07-23T03:45:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:22Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.22017,"time":"2025-07-23T03:45:22Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:22Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.089873,"time":"2025-07-23T03:45:22Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:22Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.112767,"time":"2025-07-23T03:45:22Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:22Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.100907,"time":"2025-07-23T03:45:22Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:22Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.104318,"time":"2025-07-23T03:45:22Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:23Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.092878,"time":"2025-07-23T03:45:23Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:23Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.080134,"time":"2025-07-23T03:45:23Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:23Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.109499,"time":"2025-07-23T03:45:23Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:23Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.098149,"time":"2025-07-23T03:45:23Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:23Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.06914,"time":"2025-07-23T03:45:23Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:24Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.084124,"time":"2025-07-23T03:45:24Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:24Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.092613,"time":"2025-07-23T03:45:24Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:24Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.1022,"time":"2025-07-23T03:45:24Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:24Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.086031,"time":"2025-07-23T03:45:24Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:24Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.101329,"time":"2025-07-23T03:45:24Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:25Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.093831,"time":"2025-07-23T03:45:25Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:25Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.065799,"time":"2025-07-23T03:45:25Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:25Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.109351,"time":"2025-07-23T03:45:25Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:45:25Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.11313,"time":"2025-07-23T03:45:25Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:16Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.099341,"time":"2025-07-23T03:57:16Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:16Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.079757,"time":"2025-07-23T03:57:16Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:17Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.295526,"time":"2025-07-23T03:57:17Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:17Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.180042,"time":"2025-07-23T03:57:17Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:17Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.104419,"time":"2025-07-23T03:57:17Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:17Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.061987,"time":"2025-07-23T03:57:17Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:18Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.083675,"time":"2025-07-23T03:57:18Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:18Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.073579,"time":"2025-07-23T03:57:18Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:18Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.070931,"time":"2025-07-23T03:57:18Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:18Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.097402,"time":"2025-07-23T03:57:18Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:18Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.081887,"time":"2025-07-23T03:57:18Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:19Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.067795,"time":"2025-07-23T03:57:19Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:19Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.07145,"time":"2025-07-23T03:57:19Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:19Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.100641,"time":"2025-07-23T03:57:19Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:19Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.120685,"time":"2025-07-23T03:57:19Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:19Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.140826,"time":"2025-07-23T03:57:19Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.080246,"time":"2025-07-23T03:57:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.066591,"time":"2025-07-23T03:57:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.105674,"time":"2025-07-23T03:57:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.095392,"time":"2025-07-23T03:57:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.134766,"time":"2025-07-23T03:57:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.08628,"time":"2025-07-23T03:57:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.11813,"time":"2025-07-23T03:57:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.076617,"time":"2025-07-23T03:57:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.355435,"time":"2025-07-23T03:57:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:54Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.506432,"time":"2025-07-23T03:57:54Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:57:54Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.169184,"time":"2025-07-23T03:57:54Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:58:13Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.118035,"time":"2025-07-23T03:58:13Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:58:13Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.20168,"time":"2025-07-23T03:58:13Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:58:13Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.084552,"time":"2025-07-23T03:58:13Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:58:13Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.113524,"time":"2025-07-23T03:58:13Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:58:14Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.051895,"time":"2025-07-23T03:58:14Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:58:14Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.096485,"time":"2025-07-23T03:58:14Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T03:58:14Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.222117,"time":"2025-07-23T03:58:14Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:08Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.276605,"time":"2025-07-23T04:00:08Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:08Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.209645,"time":"2025-07-23T04:00:08Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:09Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.072004,"time":"2025-07-23T04:00:09Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:09Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.086873,"time":"2025-07-23T04:00:09Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:09Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.244426,"time":"2025-07-23T04:00:09Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:09Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.116635,"time":"2025-07-23T04:00:09Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:09Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.105547,"time":"2025-07-23T04:00:09Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:09Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.095263,"time":"2025-07-23T04:00:09Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:10Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.09584,"time":"2025-07-23T04:00:10Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:10Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.095672,"time":"2025-07-23T04:00:10Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:10Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.109182,"time":"2025-07-23T04:00:10Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:10Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.094189,"time":"2025-07-23T04:00:10Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:44Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.119638,"time":"2025-07-23T04:00:44Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:44Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.088864,"time":"2025-07-23T04:00:44Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:44Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.29338,"time":"2025-07-23T04:00:44Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:44Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.090136,"time":"2025-07-23T04:00:44Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:44Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.075818,"time":"2025-07-23T04:00:44Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:44Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.148296,"time":"2025-07-23T04:00:44Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:45Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.124005,"time":"2025-07-23T04:00:45Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:45Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.229656,"time":"2025-07-23T04:00:45Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:45Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.137206,"time":"2025-07-23T04:00:45Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:45Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.177409,"time":"2025-07-23T04:00:45Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:45Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.25221,"time":"2025-07-23T04:00:45Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:00:46Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.125439,"time":"2025-07-23T04:00:46Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:01:25Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.145219,"time":"2025-07-23T04:01:25Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:01:26Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.054475,"time":"2025-07-23T04:01:26Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:01:26Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.078701,"time":"2025-07-23T04:01:26Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:01:26Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.097114,"time":"2025-07-23T04:01:26Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:01:26Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.125217,"time":"2025-07-23T04:01:26Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:01:26Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.068736,"time":"2025-07-23T04:01:26Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:01:27Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.150589,"time":"2025-07-23T04:01:27Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:01:27Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.111364,"time":"2025-07-23T04:01:27Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:01:27Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.079142,"time":"2025-07-23T04:01:27Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:01:27Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.117705,"time":"2025-07-23T04:01:27Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:01:27Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.126216,"time":"2025-07-23T04:01:27Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:01:28Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.090098,"time":"2025-07-23T04:01:28Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:03:32Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.096663,"time":"2025-07-23T04:03:32Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:03:33Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.099005,"time":"2025-07-23T04:03:33Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:03:33Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.108211,"time":"2025-07-23T04:03:33Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:03:33Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.161849,"time":"2025-07-23T04:03:33Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:08:06Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.158909,"time":"2025-07-23T04:08:06Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:08:07Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.09579,"time":"2025-07-23T04:08:07Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:08:07Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.105442,"time":"2025-07-23T04:08:07Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:08:07Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.087671,"time":"2025-07-23T04:08:07Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:08:08Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.124417,"time":"2025-07-23T04:08:08Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:08:08Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.11615,"time":"2025-07-23T04:08:08Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:08:08Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.224637,"time":"2025-07-23T04:08:08Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:08:08Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.133638,"time":"2025-07-23T04:08:08Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:08:08Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.129337,"time":"2025-07-23T04:08:08Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:08:14Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.072979,"time":"2025-07-23T04:08:14Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:08:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.094604,"time":"2025-07-23T04:08:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:08:24Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.38971,"time":"2025-07-23T04:08:24Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:08:26Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.109034,"time":"2025-07-23T04:08:26Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:08:27Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.091484,"time":"2025-07-23T04:08:27Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:08:28Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.132344,"time":"2025-07-23T04:08:28Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:09:19Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.105179,"time":"2025-07-23T04:09:19Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:09:19Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.091201,"time":"2025-07-23T04:09:19Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:09:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.105561,"time":"2025-07-23T04:09:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:09:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.107471,"time":"2025-07-23T04:09:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:09:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.113941,"time":"2025-07-23T04:09:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:09:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.103315,"time":"2025-07-23T04:09:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:09:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.106069,"time":"2025-07-23T04:09:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:09:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.103553,"time":"2025-07-23T04:09:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:09:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.104694,"time":"2025-07-23T04:09:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:09:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.12695,"time":"2025-07-23T04:09:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:09:25Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.079254,"time":"2025-07-23T04:09:25Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:09:25Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.072168,"time":"2025-07-23T04:09:25Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:09Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.275364,"time":"2025-07-23T04:11:09Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:09Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.1281,"time":"2025-07-23T04:11:09Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:10Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.106797,"time":"2025-07-23T04:11:10Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:10Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.151357,"time":"2025-07-23T04:11:10Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:13Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.068749,"time":"2025-07-23T04:11:13Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:13Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.101845,"time":"2025-07-23T04:11:13Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:13Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.110581,"time":"2025-07-23T04:11:13Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:16Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.126491,"time":"2025-07-23T04:11:16Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:16Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.360081,"time":"2025-07-23T04:11:16Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:16Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.118088,"time":"2025-07-23T04:11:16Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:16Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.075312,"time":"2025-07-23T04:11:16Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:17Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.097546,"time":"2025-07-23T04:11:17Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:19Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.115449,"time":"2025-07-23T04:11:19Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.089115,"time":"2025-07-23T04:11:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.064936,"time":"2025-07-23T04:11:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.070327,"time":"2025-07-23T04:11:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.049892,"time":"2025-07-23T04:11:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.103797,"time":"2025-07-23T04:11:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.100475,"time":"2025-07-23T04:11:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.106558,"time":"2025-07-23T04:11:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:31Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.275842,"time":"2025-07-23T04:11:31Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:31Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.084378,"time":"2025-07-23T04:11:31Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:11:31Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.102138,"time":"2025-07-23T04:11:31Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:15:36Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.116418,"time":"2025-07-23T04:15:36Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:15:36Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.147311,"time":"2025-07-23T04:15:36Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:15:37Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.121548,"time":"2025-07-23T04:15:37Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:15:37Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.090396,"time":"2025-07-23T04:15:37Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:15:37Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.101951,"time":"2025-07-23T04:15:37Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:15:37Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.071819,"time":"2025-07-23T04:15:37Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:15:38Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.092083,"time":"2025-07-23T04:15:38Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:15:38Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.157416,"time":"2025-07-23T04:15:38Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:15:38Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.400549,"time":"2025-07-23T04:15:38Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:18:55Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.072518,"time":"2025-07-23T04:18:55Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:18:56Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.108231,"time":"2025-07-23T04:18:56Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:18:57Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.102978,"time":"2025-07-23T04:18:57Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:18:58Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.086725,"time":"2025-07-23T04:18:58Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:18:59Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.106239,"time":"2025-07-23T04:18:59Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:20:01Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.10762,"time":"2025-07-23T04:20:01Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:20:11Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.093186,"time":"2025-07-23T04:20:11Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:20:11Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.081425,"time":"2025-07-23T04:20:11Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:23:09Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.130192,"time":"2025-07-23T04:23:09Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:23:10Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.150816,"time":"2025-07-23T04:23:10Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:23:12Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.076438,"time":"2025-07-23T04:23:12Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:58:28Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":3.690298,"time":"2025-07-23T04:58:28Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:58:29Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.129865,"time":"2025-07-23T04:58:29Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:58:29Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.32488,"time":"2025-07-23T04:58:29Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T04:58:30Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.068413,"time":"2025-07-23T04:58:30Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T07:04:48Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.435354,"time":"2025-07-23T07:04:48Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/error","status":404,"latency":0.000323,"time":"2025-07-23T08:14:48Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/success","status":200,"latency":0.039233,"time":"2025-07-23T08:15:27Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/success","status":200,"latency":0.041549,"time":"2025-07-23T08:15:29Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/success","status":200,"latency":0.039971,"time":"2025-07-23T08:15:29Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/success","status":200,"latency":0.045513,"time":"2025-07-23T08:15:29Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.057586,"time":"2025-07-23T08:15:34Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.032663,"time":"2025-07-23T08:15:41Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.041316,"time":"2025-07-23T08:15:41Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.052707,"time":"2025-07-23T08:15:41Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.150639,"time":"2025-07-23T08:15:47Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.139059,"time":"2025-07-23T08:15:47Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.051199,"time":"2025-07-23T08:19:42Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.053074,"time":"2025-07-23T08:19:42Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.159528,"time":"2025-07-23T08:19:43Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.064833,"time":"2025-07-23T08:19:43Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":2.670124,"time":"2025-07-23T08:25:11Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.04773,"time":"2025-07-23T08:25:15Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.065326,"time":"2025-07-23T08:25:16Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.036796,"time":"2025-07-23T08:25:16Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.041788,"time":"2025-07-23T08:25:17Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.050744,"time":"2025-07-23T08:25:17Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.055133,"time":"2025-07-23T08:25:18Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.036428,"time":"2025-07-23T08:25:21Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.061466,"time":"2025-07-23T08:25:21Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.052137,"time":"2025-07-23T08:25:21Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.045058,"time":"2025-07-23T08:25:21Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.054293,"time":"2025-07-23T08:25:21Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.044263,"time":"2025-07-23T08:25:22Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.060399,"time":"2025-07-23T08:25:22Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.042384,"time":"2025-07-23T08:25:22Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.034565,"time":"2025-07-23T08:25:22Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.029877,"time":"2025-07-23T08:25:22Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.055073,"time":"2025-07-23T08:25:23Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.04588,"time":"2025-07-23T08:25:23Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.035791,"time":"2025-07-23T08:25:23Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.034954,"time":"2025-07-23T08:25:23Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.040498,"time":"2025-07-23T08:25:23Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.030646,"time":"2025-07-23T08:25:24Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.257484,"time":"2025-07-23T08:25:24Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.042399,"time":"2025-07-23T08:25:24Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.034863,"time":"2025-07-23T08:25:24Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.027632,"time":"2025-07-23T08:25:24Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.043491,"time":"2025-07-23T08:25:24Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.041657,"time":"2025-07-23T08:25:25Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.040842,"time":"2025-07-23T08:25:25Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.056791,"time":"2025-07-23T08:25:25Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.035602,"time":"2025-07-23T08:25:25Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.156866,"time":"2025-07-23T08:25:25Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.04027,"time":"2025-07-23T08:25:25Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.049407,"time":"2025-07-23T08:25:26Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.056072,"time":"2025-07-23T08:25:26Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.031512,"time":"2025-07-23T08:25:26Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.046756,"time":"2025-07-23T08:25:26Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.036392,"time":"2025-07-23T08:25:26Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.049064,"time":"2025-07-23T08:25:26Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.043419,"time":"2025-07-23T08:25:27Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.036678,"time":"2025-07-23T08:25:27Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.243686,"time":"2025-07-23T08:25:27Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.081025,"time":"2025-07-23T08:25:27Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.076406,"time":"2025-07-23T08:25:27Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.036164,"time":"2025-07-23T08:25:27Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.035114,"time":"2025-07-23T08:25:41Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.021915,"time":"2025-07-23T08:25:41Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.060863,"time":"2025-07-23T08:25:42Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.062659,"time":"2025-07-23T08:25:42Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.060948,"time":"2025-07-23T08:25:42Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.045311,"time":"2025-07-23T08:25:42Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.06294,"time":"2025-07-23T08:25:42Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.041951,"time":"2025-07-23T08:25:42Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.039521,"time":"2025-07-23T08:25:43Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.056859,"time":"2025-07-23T08:25:43Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.045489,"time":"2025-07-23T08:25:43Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.069298,"time":"2025-07-23T08:25:43Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.228553,"time":"2025-07-23T08:25:43Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.045949,"time":"2025-07-23T08:25:44Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.041661,"time":"2025-07-23T08:25:44Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.040884,"time":"2025-07-23T08:25:44Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:30Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.177588,"time":"2025-07-23T08:56:30Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:30Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.090276,"time":"2025-07-23T08:56:30Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:30Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.159396,"time":"2025-07-23T08:56:30Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:30Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.07696,"time":"2025-07-23T08:56:30Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:31Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.087569,"time":"2025-07-23T08:56:31Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:31Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.083462,"time":"2025-07-23T08:56:31Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:31Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.087739,"time":"2025-07-23T08:56:31Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:31Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.063164,"time":"2025-07-23T08:56:31Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:31Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.116836,"time":"2025-07-23T08:56:31Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:32Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.152574,"time":"2025-07-23T08:56:32Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:32Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.077806,"time":"2025-07-23T08:56:32Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:32Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.093478,"time":"2025-07-23T08:56:32Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:32Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.046709,"time":"2025-07-23T08:56:32Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:32Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.118688,"time":"2025-07-23T08:56:32Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:32Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.106127,"time":"2025-07-23T08:56:32Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T08:56:33Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.084718,"time":"2025-07-23T08:56:33Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/ffsfesf","status":404,"latency":0.000646,"time":"2025-07-23T08:57:06Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/ffsfesf","status":404,"latency":0.00033,"time":"2025-07-23T08:57:07Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/ffsfesf","status":404,"latency":0.000269,"time":"2025-07-23T08:57:07Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/ffsfesf","status":404,"latency":0.000245,"time":"2025-07-23T08:57:07Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/ffsfesf","status":404,"latency":0.000286,"time":"2025-07-23T08:57:07Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/ffsfesf","status":404,"latency":0.000375,"time":"2025-07-23T08:57:08Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/ffsfesf","status":404,"latency":0.000366,"time":"2025-07-23T08:57:08Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/ffsfesf","status":404,"latency":0.000303,"time":"2025-07-23T08:57:08Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/ffsfesf","status":404,"latency":0.000063,"time":"2025-07-23T08:57:08Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/ffsfesf","status":404,"latency":0.000165,"time":"2025-07-23T08:57:08Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/ffsfesf","status":404,"latency":0.000152,"time":"2025-07-23T08:57:08Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/ffsfesf","status":404,"latency":0.000444,"time":"2025-07-23T08:57:08Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/ffsfesf","status":404,"latency":0.001336,"time":"2025-07-23T08:57:09Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.091114,"time":"2025-07-23T09:11:58Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.038536,"time":"2025-07-23T09:11:58Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:12:01Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.120871,"time":"2025-07-23T09:12:01Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:12:02Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.108242,"time":"2025-07-23T09:12:02Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:12:02Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.098476,"time":"2025-07-23T09:12:02Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/fail","status":500,"latency":0.083874,"time":"2025-07-23T09:18:45Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:18:46Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.102223,"time":"2025-07-23T09:18:46Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:18:47Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.079021,"time":"2025-07-23T09:18:47Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:18:48Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.184406,"time":"2025-07-23T09:18:48Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:18:48Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.114903,"time":"2025-07-23T09:18:48Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:18:49Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.095328,"time":"2025-07-23T09:18:49Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:18:49Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.13935,"time":"2025-07-23T09:18:49Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:18:49Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.137553,"time":"2025-07-23T09:18:49Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:18:49Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.101225,"time":"2025-07-23T09:18:49Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:18:49Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.098332,"time":"2025-07-23T09:18:49Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:18:50Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.124547,"time":"2025-07-23T09:18:50Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:18:50Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.156092,"time":"2025-07-23T09:18:50Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:18:50Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.108606,"time":"2025-07-23T09:18:50Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:18Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.106062,"time":"2025-07-23T09:20:18Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:18Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.131039,"time":"2025-07-23T09:20:18Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:19Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.094785,"time":"2025-07-23T09:20:19Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.079978,"time":"2025-07-23T09:20:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:20Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.080719,"time":"2025-07-23T09:20:20Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.075262,"time":"2025-07-23T09:20:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.084669,"time":"2025-07-23T09:20:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:21Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.07176,"time":"2025-07-23T09:20:21Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:22Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.098001,"time":"2025-07-23T09:20:22Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:23Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.085553,"time":"2025-07-23T09:20:23Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:23Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.085391,"time":"2025-07-23T09:20:23Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:23Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.080303,"time":"2025-07-23T09:20:23Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:24Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.095102,"time":"2025-07-23T09:20:24Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:24Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.070933,"time":"2025-07-23T09:20:24Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:25Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.057457,"time":"2025-07-23T09:20:25Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:25Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.122664,"time":"2025-07-23T09:20:25Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:25Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.08334,"time":"2025-07-23T09:20:25Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:32Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.059614,"time":"2025-07-23T09:20:32Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:32Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.088692,"time":"2025-07-23T09:20:32Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:46Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.124662,"time":"2025-07-23T09:20:46Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:46Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.071555,"time":"2025-07-23T09:20:46Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:47Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.103113,"time":"2025-07-23T09:20:47Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:47Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.089946,"time":"2025-07-23T09:20:47Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:48Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.045767,"time":"2025-07-23T09:20:48Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:48Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.109966,"time":"2025-07-23T09:20:48Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:48Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.139035,"time":"2025-07-23T09:20:48Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:48Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.075702,"time":"2025-07-23T09:20:48Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:49Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.147269,"time":"2025-07-23T09:20:49Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:49Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.075003,"time":"2025-07-23T09:20:49Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:49Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.088223,"time":"2025-07-23T09:20:49Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:49Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.098558,"time":"2025-07-23T09:20:49Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:49Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.070513,"time":"2025-07-23T09:20:49Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:20:50Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.109035,"time":"2025-07-23T09:20:50Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:35Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.064797,"time":"2025-07-23T09:21:35Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:35Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.325742,"time":"2025-07-23T09:21:35Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:35Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.160263,"time":"2025-07-23T09:21:35Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:35Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.108248,"time":"2025-07-23T09:21:35Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:35Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.106343,"time":"2025-07-23T09:21:35Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:35Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.094708,"time":"2025-07-23T09:21:35Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:36Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.173792,"time":"2025-07-23T09:21:36Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:36Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.127984,"time":"2025-07-23T09:21:36Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:36Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.10202,"time":"2025-07-23T09:21:36Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:36Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.108497,"time":"2025-07-23T09:21:36Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:36Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.582694,"time":"2025-07-23T09:21:36Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:36Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.089097,"time":"2025-07-23T09:21:36Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:36Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.067549,"time":"2025-07-23T09:21:36Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:37Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.160257,"time":"2025-07-23T09:21:37Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:37Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.089972,"time":"2025-07-23T09:21:37Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:37Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.158042,"time":"2025-07-23T09:21:37Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:37Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.115991,"time":"2025-07-23T09:21:37Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:37Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.078754,"time":"2025-07-23T09:21:37Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:37Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.094991,"time":"2025-07-23T09:21:37Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:38Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.118793,"time":"2025-07-23T09:21:38Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:38Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.103596,"time":"2025-07-23T09:21:38Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:21:38Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.118654,"time":"2025-07-23T09:21:38Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/pinefef","status":404,"latency":0.000521,"time":"2025-07-23T09:21:44Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/pinefef","status":404,"latency":0.000225,"time":"2025-07-23T09:21:45Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/pinefef","status":404,"latency":0.000551,"time":"2025-07-23T09:21:45Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/pinefef","status":404,"latency":0.000159,"time":"2025-07-23T09:21:46Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/pinefef","status":404,"latency":0.000423,"time":"2025-07-23T09:21:46Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/pinefef","status":404,"latency":0.000332,"time":"2025-07-23T09:21:46Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/pinefef","status":404,"latency":0.000326,"time":"2025-07-23T09:21:46Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/pinefef","status":404,"latency":0.001331,"time":"2025-07-23T09:21:46Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/pinefef","status":404,"latency":0.001339,"time":"2025-07-23T09:21:47Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/pinefef","status":404,"latency":0.000953,"time":"2025-07-23T09:21:47Z","message":"Incoming request"}
+{"level":"info","method":"GET","path":"/pinefef","status":404,"latency":0.001178,"time":"2025-07-23T09:21:47Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:26:34Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.117715,"time":"2025-07-23T09:26:34Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:26:36Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.320282,"time":"2025-07-23T09:26:36Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:26:37Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.122475,"time":"2025-07-23T09:26:37Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:26:38Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.072707,"time":"2025-07-23T09:26:38Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:26:42Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.084361,"time":"2025-07-23T09:26:42Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:26:45Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.093567,"time":"2025-07-23T09:26:45Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:26:48Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.095074,"time":"2025-07-23T09:26:48Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:26:49Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.073227,"time":"2025-07-23T09:26:49Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:27:22Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.099415,"time":"2025-07-23T09:27:22Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:35:58Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.160173,"time":"2025-07-23T09:35:58Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:36:01Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.102722,"time":"2025-07-23T09:36:01Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:36:01Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.08909,"time":"2025-07-23T09:36:01Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:36:08Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.085443,"time":"2025-07-23T09:36:08Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:36:09Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.065084,"time":"2025-07-23T09:36:09Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:36:18Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.092223,"time":"2025-07-23T09:36:18Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:36:53Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.235648,"time":"2025-07-23T09:36:53Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:37:02Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.087397,"time":"2025-07-23T09:37:02Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:37:06Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.09314,"time":"2025-07-23T09:37:06Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:38:48Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.120495,"time":"2025-07-23T09:38:48Z","message":"Incoming request"}
+{"level":"info","time":"2025-07-23T09:38:56Z","message":"Ping endpoint called"}
+{"level":"info","method":"GET","path":"/ping","status":200,"latency":0.101883,"time":"2025-07-23T09:38:56Z","message":"Incoming request"}
