@@ -23,11 +23,11 @@ This project is a minimal REST API built using the [Gin](https://github.com/gin-
 ```
 .
 ├── docker-compose.yml
-├── app
-│   ├── main.go
-│   └── logger.go
-├── promtail
-│   └── config.yml
+├── Dockerfile
+├── main.go
+├── go.mod
+├── go.sum
+├── promtail-config.yml
 ├── logs
 │   └── server.log (auto-generated)
 └── README.md
@@ -47,7 +47,13 @@ cd gin-loki-grafana
 ### 2. Start all services
 
 ```bash
-docker-compose up --build
+#first time
+docker compose up --build
+
+#rerun
+docker compose up
+
+#if using docker compose v1 then the command should be docker-compose
 ```
 
 ### 3. Access the services
@@ -66,9 +72,9 @@ docker-compose up --build
 
 ## 🧪 Example Endpoints
 
-- `GET /ping` — returns `pong` (Success)
-- `GET /error` — simulates failure with 500
-- `GET /status/:code` — customizable status code (e.g., `/status/404`)
+- `GET /ping` — returns `pong` (Success 200)
+- `GET /fail` — simulates failure with 500
+- `GET /random_value` — simulates not found with 404
 
 ---
 
@@ -76,19 +82,53 @@ docker-compose up --build
 
 ### Dashboard Metrics via LogQL
 
-Loki URL: http://host.docker.internal:3100
+Loki URL: http://loki:3100
 
-- ✅ Success Requests:  
-  ```logql
-  count_over_time({job="gin-app"} | json | status=~"2.." [1m])
-  ```
+```logql
+✅ Total Success Requests (200):  
+  
+sum by(job) (
+  count_over_time({job="gin-app"} | json | status=~"2.." [$__range])
+)
+or vector(0)
+```
 
-- ❌ Failed Requests:  
-  ```logql
-  count_over_time({job="gin-app"} | json | status!~"2.." [1m])
-  ```
+```logql
+❌ Total Failed Requests (500):
+sum(
+  count_over_time(
+    {job="gin-app"} 
+    | json 
+    | status=~"5.." 
+    [$__range]
+  )
+)
+or vector(0)
+```
+```logql
+✅ Success Rate:
+(
+  sum(
+    count_over_time(
+      {job="gin-app"} 
+      | json 
+      | status=~"2.." 
+      [$__range]
+    )
+  )
+  /
+  sum(
+    count_over_time(
+      {job="gin-app"} 
+      | json 
+      | method="GET" 
+      [$__range]
+    )
+  )
+) * 100
+```
 
-> Adjust `[1m]` to `[5m]`, `[1h]`, etc. for different time windows.
+> Adjust the time picker for different time windows.
 
 ---
 
