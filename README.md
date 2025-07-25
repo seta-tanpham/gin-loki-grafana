@@ -83,12 +83,15 @@ docker compose up
 ### Dashboard Metrics via LogQL
 
 --Config data source
+
 Loki URL: http://loki:3100
 
 --Import dashboard
+
 Use `grafana-import-1753270140645.json`
 
 --Refresh each panel in case of errors
+
 
 ```logql
 ✅ Total Success Requests (200):  
